@@ -28,4 +28,25 @@ A typical hand tracking module consists of:
     Gesture Recognition Module:
         Recognizes predefined gestures using Machine Learning (ML) models.
         Example: Sign language recognition using TensorFlow models.
+        
+```
+
+```
+Advanced Computer Vision: Chapter 2 - Pose Estimation
+1. Introduction to Pose Estimation
+Pose estimation is a fundamental problem in computer vision that involves detecting and tracking the position of key points (landmarks) of a human body, face, or hand in an image or video. The goal is to estimate the spatial configuration of an object (typically the human body) by identifying specific joints or key points.
+
+Applications of Pose Estimation
+Human-Computer Interaction (HCI): Gesture-based controls, sign language recognition.
+
+Sports Analytics: Tracking player movements and performance analysis.
+
+Healthcare & Rehabilitation: Posture correction, physiotherapy, and injury prevention.
+
+Virtual Reality (VR) & Augmented Reality (AR): Real-time motion tracking.
+
+Animation & Gaming: Motion capture for realistic character movements.
+
+Surveillance & Security: Detecting abnormal postures for safety monitoring.
+
 ```
